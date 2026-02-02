@@ -9,10 +9,10 @@
 &lt;!-- Social & Contact Badges --&gt;
 &lt;div align="center"&gt;
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://satyamshivam13.github.io/portfolio)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamshivam)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://usersatyam.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usersatyam)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamshivam13)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamshivam13@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamsatyam35@gmail.com)
   [![Phone](https://img.shields.io/badge/+91--9852015381-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919852015381)
   
 &lt;/div&gt;
