@@ -8,13 +8,18 @@
 
 &lt;!-- Social & Contact Badges --&gt;
 &lt;div align="center"&gt;
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://usersatyam.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usersatyam)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamshivam13)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamsatyam35@gmail.com)
-  [![Phone](https://img.shields.io/badge/+91--9852015381-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919852015381)
-  
+  &lt;a href="https://usersatyam.vercel.app/"&gt;
+    &lt;img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://linkedin.com/in/usersatyam"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/satyamshivam13"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:shivamsatyam35@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/&gt;
+  &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;br/&gt;
@@ -173,18 +178,47 @@ I'm a **B.Tech student in Artificial Intelligence & Machine Learning** at United
 
 ## 🎯 Current Focus
 
-```mermaid
-mindmap
-  root((AI Engineering))
-    LLM Orchestration
-      LangChain
-      RAG Optimization
-      Prompt Engineering
-    Backend Systems
-      FastAPI
-      Docker
-      AWS
-    Data & Vectors
-      FAISS
-      Embeddings
-      Semantic Search
+&lt;div align="center"&gt;
+
+| Category | Technologies |
+|----------|-------------|
+| **LLM Orchestration** | LangChain • RAG Optimization • Prompt Engineering • Context Grounding |
+| **Backend Systems** | FastAPI • Docker • AWS • REST APIs |
+| **Data & Vectors** | FAISS • Embeddings • Semantic Search • Document Chunking |
+| **MLOps** | Model Deployment • CI/CD • Containerization • Scalable Inference |
+
+&lt;/div&gt;
+
+&lt;div align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Focus-Building_Production_RAG_Systems-6366F1?style=for-the-badge&logo=target&logoColor=white" alt="Current Focus"/&gt;
+&lt;/div&gt;
+
+---
+
+## 📫 Let's Connect!
+
+&lt;div align="center"&gt;
+  
+  &lt;a href="https://linkedin.com/in/satyamshivam"&gt;
+    &lt;img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:satyamshivam13@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/satyamshivam13"&gt;
+    &lt;img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;div align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=satyamshivam13&color=6366F1&style=for-the-badge" alt="Profile Views"/&gt;
+&lt;/div&gt;
+
+&lt;!-- Footer Wave --&gt;
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=&fontSize=0" width="100%"/&gt;
+
+&lt;!-- Footer Message --&gt;
+&lt;div align="center"&gt;
+  &lt;sub&gt;Built with ❤️ and ☕ by Satyam Shivam | Powered by LLMs & RAG&lt;/sub&gt;
+&lt;/div&gt;
