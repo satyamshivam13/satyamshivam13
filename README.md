@@ -271,12 +271,14 @@ Gained hands-on experience in cloud infrastructure and scalable ML deployments:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamshivam13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamshivam13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=satyamshivam13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=satyamshivam13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamshivam13&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=satyamshivam13&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
