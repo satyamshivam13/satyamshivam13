@@ -271,14 +271,20 @@ Gained hands-on experience in cloud infrastructure and scalable ML deployments:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=satyamshivam13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=satyamshivam13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamshivam13&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=7dcfff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=satyamshivam13&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyamshivam13&theme=tokyonight" alt="GitHub Profile Summary"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyamshivam13&theme=tokyonight" width="48%" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyamshivam13&theme=tokyonight" width="48%" alt="Most Commit Language"/>
 </div>
 
 ---
