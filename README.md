@@ -30,7 +30,7 @@
 
 ## 👋 Hey there! Let me introduce myself
 
-I'm **Satyam Shivam**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at United Institute of Technology. I build systems that don't just work—they actually *understand* and *learn*.
+I'm **Satyam Shivam**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at United Institute of Technology. I build systems that don't just work they actually *understand* and *learn*.
 
 **What I do:** Build LLM-powered backend systems, multi-agent AI applications, and intelligent automation tools that solve real-world problems. I'm passionate about making AI systems smarter, more reliable, and grounded in factual information.
 
@@ -42,7 +42,7 @@ I'm **Satyam Shivam**, a B.Tech student specializing in **Artificial Intelligenc
 - 📚 **Learning journey:** Agent frameworks (CrewAI, LangGraph), advanced retrieval strategies, and LLM orchestration
 - 🤝 **Open to collaborate:** AI/ML projects, multi-agent systems, NLP applications, RAG implementations
 - 💡 **Love discussing:** Python ecosystems, FastAPI architecture, prompt engineering, vector databases, agent coordination
-- 🎯 **My philosophy:** AI is only as good as the context it understands—that's why I focus on grounding LLM responses in retrieved, verified information
+- 🎯 **My philosophy:** AI is only as good as the context it understands that's why I focus on grounding LLM responses in retrieved, verified information
 - ☕ **Beyond code:** When I'm not training models or debugging pipelines, I explore AI research papers and experiment with the latest LLM APIs
 
 ---
