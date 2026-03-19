@@ -36,12 +36,12 @@ Think of me as someone who's obsessed with making AI systems smarter and more re
 
 ### What I'm up to these days:
 
-- 🚀 **Currently building:** RAG pipelines and document-based AI chatbots that actually understand what you're asking
-- 📚 **Learning journey:** Deep-diving into advanced retrieval strategies, LLM orchestration, and making AI responses more grounded in facts
+- 🚀 **Currently building:** Multi-agent AI systems and production-ready RAG pipelines that actually solve real-world problems
+- 📚 **Learning journey:** Deep-diving into GraphRAG, AI orchestration, and making autonomous agents more reliable
 - 🤝 **Open to collaborate:** If you're working on AI/ML projects, NLP applications, or anything involving intelligent systems—let's talk!
-- 💡 **Love discussing:** Python ecosystems, FastAPI magic, the art of prompt engineering, vector databases, and everything RAG
-- 🎯 **My philosophy:** AI is only as good as the context it understands. That's why I'm passionate about grounding LLM responses in retrieved, verified information
-- ☕ **Beyond code:** When I'm not training models or debugging pipelines, you'll find me exploring new AI research papers or experimenting with the latest LLM APIs
+- 💡 **Love discussing:** Multi-agent architectures, FastAPI magic, the art of prompt engineering, vector databases, and everything RAG
+- 🎯 **My philosophy:** AI is only as good as the context it understands. That's why I'm passionate about building systems that are grounded, observable, and auditable
+- ☕ **Beyond code:** When I'm not training models or debugging pipelines, you'll find me exploring new AI research papers or experimenting with the latest agentic frameworks
 
 ---
 
@@ -82,57 +82,59 @@ Here are some things I've built that keep me up at night (in a good way!):
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📄 PDF RAG Chatbot</h3>
+      <h3 align="center">🤖 Multi-Agent Campaign Creator</h3>
       <div align="center">
-        <a href="https://github.com/satyamshivam13/pdf-rag-chatbot" target="_blank">
+        <a href="https://github.com/satyamshivam13/Multi_Agent_Campaign_Creator" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>The Challenge:</strong> Ever tried finding specific information in a 100-page PDF? Painful, right? <br/><strong>My Solution:</strong> A production-ready RAG system that reads PDFs and answers your questions like a knowledgeable assistant. Built with modular pipelines for ingestion, retrieval, and intelligent response generation.</p>
+        <p><strong>The Challenge:</strong> Coordinating multiple AI agents to generate cohesive marketing strategies? <br/><strong>My Solution:</strong> Advanced multi-agent system that leverages specialized agents to generate, optimize, and coordinate complex campaign lifecycles.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/FAISS-3766AB?style=flat-square&logo=meta&logoColor=white"/>
-          <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AI_Orchestration-FF6B6B?style=flat-square&logo=semantic-web&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Multi_Agent-6366F1?style=flat-square&logo=openai&logoColor=white"/>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🔍 LLM Syntax Error Checker</h3>
+      <h3 align="center">🔍 HybridAI Syntax Detection</h3>
       <div align="center">
-        <a href="https://github.com/satyamshivam13/llm-syntax-checker" target="_blank">
+        <a href="https://github.com/satyamshivam13/HybridAI_Syntax_Error_Detection" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>Born from frustration:</strong> Cryptic error messages that make you question your career choices? <br/><strong>What it does:</strong> Uses LLM reasoning to not just detect syntax errors, but explain them like a patient mentor would—with context and clarity.</p>
+        <p><strong>Beyond Cryptic Errors:</strong> Bridging the gap between compiler messages and student understanding. <br/><strong>What it does:</strong> Uses an AST-based hybrid AI approach to detect and explain syntax errors with 87-93% accuracy across multiple languages.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AST-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ML-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
         </p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📝 LLM Plagiarism Checker</h3>
+      <h3 align="center">📈 House Price Prediction</h3>
       <div align="center">
-        <a href="https://github.com/satyamshivam13/llm-plagiarism-checker" target="_blank">
+        <a href="https://github.com/satyamshivam13/House_Price_Prediction" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>Smart detection:</strong> Goes beyond simple word matching—understands semantic similarity to catch even paraphrased plagiarism. <br/><strong>The output:</strong> Detailed similarity reports that actually make sense.</p>
+        <p><strong>Production Ready:</strong> Real-world housing market analysis and forecasting. <br/><strong>The output:</strong> Full-stack ML pipeline for predicting property values with high precision, currently being refined for deployment.</p>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logo=semantic-web&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 Document AI Chatbot</h3>
+      <h3 align="center">⛓️ Advanced RAG Pipeline</h3>
       <div align="center">
-        <a href="https://github.com/satyamshivam13/document-ai-chatbot" target="_blank">
+        <a href="https://github.com/satyamshivam13/RAG_Pipeline" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>The full package:</strong> A complete document-based AI chatbot built from scratch. <br/><strong>How it works:</strong> PDF ingestion → Embeddings → Vector search → Intelligent LLM responses. <br/><strong>Bonus:</strong> Fully dockerized for one-command deployment!</p>
+        <p><strong>The Full Package:</strong> Production-grade RAG system with metadata-aware retrieval. <br/><strong>How it works:</strong> Ingestion → Semantic Chunking → Hybrid Search → Intelligent LLM responses. Fully dockerized for performance.</p>
         <p>
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Vector_DB-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         </p>
       </div>
     </td>
@@ -193,10 +195,10 @@ My introduction to the world of cloud infrastructure and scalable systems:
 
 | Category | Technologies |
 |----------|-------------|
-| LLM Orchestration | LangChain • RAG Optimization • Prompt Engineering • Context Grounding |
-| Backend Systems | FastAPI • Docker • AWS • REST APIs |
-| Data & Vectors | FAISS • Embeddings • Semantic Search • Document Chunking |
-| MLOps | Model Deployment • CI/CD • Containerization • Scalable Inference |
+| AI Orchestration | Multi-Agent Systems • GraphRAG • LLM Coordination • Autonomous Agents |
+| LLM Systems | RAG Optimization • Prompt Engineering • Context Grounding • Semantic Search |
+| Backend & DevOps | FastAPI • Docker • AWS • CI/CD Pipelines |
+| MLOps | Model Deployment • Scalable Inference • Performance Monitoring • Containerization |
 
 </div>
 
