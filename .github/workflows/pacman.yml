@@ -24,9 +24,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?background=0d1117
 
       - name: Push to Output Branch
         uses: peaceiris/actions-gh-pages@v3
