@@ -298,12 +298,12 @@ ACHIEVEMENTS UNLOCKED:
 
 ---
 
-## 🐍 *Contribution Snake (Eating Pixels Since 2023)*
+## 🟡 *Contribution Pac-Man (Chomping Dots Since 2023)*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyamshivam13/satyamshivam13/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyamshivam13/satyamshivam13/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/satyamshivam13/satyamshivam13/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyamshivam13/satyamshivam13/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyamshivam13/satyamshivam13/output/pacman-contribution-graph.svg">
+    <img alt="pacman eating my contributions" src="https://raw.githubusercontent.com/satyamshivam13/satyamshivam13/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
