@@ -7,7 +7,7 @@
         ▄ NOW LOADING ▄ ▄ ▄ PLEASE STAND BY ▄
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=CONNECTING+TO+AI+MAINFRAME...;INITIALIZING+LLM+PROTOCOLS...;RAG+SYSTEMS+ONLINE+✓;MULTI-AGENT+ORCHESTRATION+READY+✓;SATYAM_SHIVAM.EXE+RUNNING..." alt="Loading" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=CONNECTING+TO+AI+MAINFRAME...;INITIALIZING+LLM+PROTOCOLS...;RAG+SYSTEMS+ONLINE+✓;MULTI-AGENT+ORCHESTRATION+READY+✓;SATYAM.EXE+RUNNING..." alt="Loading" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=satyamshivam13&color=00FF41&style=flat-square&label=VISITORS)
 ![GitHub followers](https://img.shields.io/github/followers/satyamshivam13?label=FOLLOWING&style=flat-square&color=00FF41)
@@ -21,7 +21,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name = "Satyam Shivam"
+        self.name = "Satyam"
         self.role = "AI/ML Engineer"
         self.status = "Building intelligent systems that actually make sense"
         self.location = "United Institute of Technology"
