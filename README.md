@@ -182,22 +182,28 @@ Tells you *why* it broke, not just *what* broke
 <tr>
 <td width="50%">
 
-### 🌤️ AI Weather Agent
-*Weather forecasts with personality*
+### 📉 Customer Churn Prediction
+*Know who's leaving before they do*
 
-Natural language queries + contextual recommendations + caching = weather assistant that doesn't suck
+ML pipeline that flags at-risk users using behavioral signals — so you can intervene before it's too late
 
-[![View Code](https://img.shields.io/badge/VIEW_CODE-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/satyamshivam13/AI_Weather_Agent)
+**Tech:** XGBoost, SHAP, FastAPI  
+**Why it matters:** Retention > acquisition, always
+
+[![View Code](https://img.shields.io/badge/VIEW_CODE-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/satyamshivam13/Customer_Churn_Prediction)
 
 </td>
 <td width="50%">
 
-### 📝 LLM Plagiarism Checker
-*Catches paraphrasing, not just copy-paste*
+### 🕵️ AI Text Detector
+*Can you tell if a human wrote this?*
 
-Uses semantic embeddings to detect when someone just ran it through QuillBot
+Hybrid classifier (perplexity + stylometric features) that catches AI-generated content across GPT-4, Claude, and Gemini outputs
 
-[![View Code](https://img.shields.io/badge/VIEW_CODE-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/satyamshivam13/LLM_Plagiarism_Checker)
+**Tech:** Transformers, FastAPI, Streamlit  
+**Live Demo:** [Try it →](https://ai-text-detector.streamlit.app)
+
+[![View Code](https://img.shields.io/badge/VIEW_CODE-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/satyamshivam13/AI_Text_Detector)
 
 </td>
 </tr>
@@ -245,6 +251,21 @@ const currentStatus = {
 ---
 
 ## 💼 *Experience Logs*
+
+<details>
+<summary><b>📼 AI Developer Intern @ Asvix</b> (Jan 2026 - Apr 2026)</summary>
+
+```
+ACHIEVEMENTS UNLOCKED:
+├─ 🧠 Built DigiLab RAG pipeline — 500+ daily queries, 99.2% uptime
+├─ 📉 Cut hallucination rate 39% (18% → 11%)
+├─ 📊 RAGAS evaluation harness for ongoing quality tracking
+└─ 🔗 LangChain + FAISS + Neo4j hybrid RAG
+```
+
+**Translation:** Built a production RAG system that actually stayed up and kept getting better
+
+</details>
 
 <details>
 <summary><b>📼 AI Chatbot Development Intern @ Cloudily Scripts</b> (Jun 2025 - Jul 2025)</summary>
