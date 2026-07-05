@@ -216,7 +216,7 @@ Hybrid classifier (perplexity + stylometric features) that catches AI-generated 
 ```javascript
 const currentStatus = {
     focus: "Multi-agent systems + advanced RAG optimization",
-    learning: ["LangGraph", "Agent orchestration patterns", "Reranking strategies"],
+    learning: ["LoRA fine-tuning", "LLM evaluation frameworks", "agentic patterns"],
     building: "Production AI systems that scale",
     reading: "Research papers on retrieval augmentation",
     mood: "Caffeinated and curious",
